@@ -366,7 +366,7 @@ const Home = ({
           name="viewport"
           content="height=device-height ,width=device-width, initial-scale=1, user-scalable=no"
         />
-        <link rel="icon" href="components/Chat/star.png" />
+        <link rel="icon" href="components/Chat/star.png" type="image/x-icon" />
       </Head>
       {selectedConversation && (
         <main
