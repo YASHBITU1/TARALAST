@@ -375,7 +375,7 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
             <div>
               {t("I am TARA, an AI chatbot assistant developed by Bitu. I am designed to provide support and engage with users through natural language processing and artificial intelligence technologies.")}
               <a
-                href="https://instagram.com/yash_bitu__"
+                href="https://yashbitu.in"
                 target="_blank"
                 rel="noreferrer"
                 className="text-blue-500 hover:underline"
