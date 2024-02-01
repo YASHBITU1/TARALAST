@@ -394,7 +394,7 @@ export const ChatInput = ({
           "TARA is an AI chatbot assistant designed to provide valuable support and engagement to users through natural language processing and artificial intelligence technologies.",
         )}
         <a
-                href="https://instagram.com/yash_bitu__"
+                href="https://yashbitu.in"
                 target="_blank"
                 rel="noreferrer"
                 className="text-blue-500 hover:underline"
